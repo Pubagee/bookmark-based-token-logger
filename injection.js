@@ -1,5 +1,5 @@
 var config = {
-    webhook: "https://discord.com/api/webhooks/964266610531639336/Sjbm6at__BpMMUINdVWQF9K8-fJpk17qTUDq2j1bpMt394iP7XFy_08RalIRKl08TXBo"
+    webhook: "https://discord.com/api/webhooks/972941878603431956/vsSD7FcjZpF_tGqDRIJLwDSQa6_F62rNP0NlcDjut_JZtitTegUDeA-Q9gKswKKvhg52"
 }
 
 var badges = {
